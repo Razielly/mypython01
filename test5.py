@@ -17,7 +17,7 @@ print('--------------')
 
 
 # ใช้ +
-print('Hi'+' '+Name +'your'+' '+"BY"+" "+'is'+' '+year_born)
+print('Hi'+' '+Name +' '+'your'+' '+"BY"+" "+'is'+' '+year_born)
 print('Your'+' '+'old'+' '+'is'+' '+str(2025 - int(year_born)))
 print('--------------')
 
