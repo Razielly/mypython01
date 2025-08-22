@@ -1,5 +1,13 @@
 # sting
 print('dddd'); print("dfsdfs"); 
+#ต้องการแสดง ' or "
+print("ffff'fffff"); print('ffff"fffff') 
+#อยากได้เว้นบรรทัด ใช้ """ tripple
+print('''
+      kdfsdf
+      sdfsd
+      sdfsdf
+      ''')
 # Number
 print(5667)
 print(456.48394684)

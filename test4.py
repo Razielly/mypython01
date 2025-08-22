@@ -14,4 +14,4 @@ print('hello {2} Wow {1}KOoK{0}'.format(5555,0,True))
 
 # th way f-string โดยข้อมูลที่แสดงในรูปแบบสตริง
 #  (ข้อมูลที่ไมใช่ String ให้เขียนใส่ใน{} ณ ตำแหน่งนะ้นๆเลย)
-print(f'hello {2} Wow {1}  KOoK {True}')
+print(f'hello" {2} Wow {1}  KOoK {True}')

@@ -11,7 +11,7 @@ print(f'Your old is {2025 -int(year_born)}')
 print('--------------')
 # ใช้ ,
 print('Hi',Name,'your BY is',year_born)
-print('your old is',(2025 - int(year_born)))
+print('Your old is',(2025 - int(year_born)))
 print('--------------')
 
 
