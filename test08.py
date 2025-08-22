@@ -15,5 +15,6 @@ num *= 10 # num = num * 10
 num /= 10 # num = num / 10
 num %= 10 # num = num % 10
 num //= 10 # num = num // 10
+num += 550
 print(num)
 print(f"เงินเดือนที่จะได้ {Salary} บาท")
